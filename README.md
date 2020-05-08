@@ -4,9 +4,9 @@ My personal dwm, st, dmenu and slock files. Please be aware that most of them ha
 
 dwm: bar and border transparency; media keys can be used in config.h (e.g.: xf86xk_monbrightnessup/down for backlight control); customisable bar height in config.h; three tiling modes: vertical, horizontal, and grid; Xmonad-like tiling behaviour (thanks to the attachaside patch); no border when there's only one, fullscreen window (e.g.: when you're watching a movie; thanks to the noborder patch); floating windows can be configured to open in the centre of the screen.
 
-st: transparency; scrollback with the mouse and keyboard.
+st: transparency; scrollback with both the mouse and keyboard.
 
-dmenu: fonts and colours are defined in dmenu's config.h instead of dwm's config.h (functionally identical, but allows you to use a different colour scheme between dwm and dmenu if you want to).
+dmenu: fuzzy matching; fonts and colours are defined in dmenu's config.h instead of dwm's config.h (functionally identical, but allows you to use a different colour scheme between dwm and dmenu if you want to).
 
 slock: stock.
 
