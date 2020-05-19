@@ -6,7 +6,7 @@ dwm: bar and border transparency; media keys can be used in config.h (e.g.: xf86
 
 st: transparency; scrollback with both the mouse and keyboard.
 
-dmenu: centered; bordered; fuzzy matching; fonts and colours are defined in dmenu's config.h instead of dwm's config.h (functionally identical, but allows you to use a different colour scheme between dwm and dmenu if you want to). The scripts folder contains: a web/bookmark searcher, power menu, keyboard layout selector, screen recorder, and a rofi-like window searcher/focuser. Please note that some of these scripts need EWMH compatability to work properly, as they involve wmctrl.
+dmenu: centered; bordered; fuzzy matching; width can be set in config.h; fonts and colours are defined in dmenu's config.h instead of dwm's config.h (functionally identical, but allows you to use a different colour scheme between dwm and dmenu if you want to). The scripts folder contains: a web/bookmark searcher, power menu, keyboard layout selector, screen recorder, and a rofi-like window searcher/focuser. Please note that some of these scripts need EWMH compatability to work properly, as they involve wmctrl.
 
 slock: stock.
 
